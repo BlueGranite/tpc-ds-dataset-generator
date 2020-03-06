@@ -1,1 +1,0 @@
-The Databricks notebooks will be added to the repo soon.
